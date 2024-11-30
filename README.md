@@ -1,5 +1,10 @@
 # fukuhedrons
 Fukuhedrons Unofficial
+
+Fukuhedrons Preview - [https://xai.cn/fuku/](https://xai.cn/fuku/)
+
+Fukuhedrons Custom - [https://xai.cn/fuku/diy/](https://xai.cn/fuku/diy/)
+
 <pre>
 ├── content - on-chain content
 ├── svg - svg files (0.svg ~ 9999.svg)
