@@ -1,6 +1,5 @@
 # fukuhedrons
 Fukuhedrons Unofficial
-
 <pre>
 ├── content - on-chain content
 ├── svg - svg files (0.svg ~ 9999.svg)
@@ -18,6 +17,8 @@ Fukuhedrons Unofficial
     ├── Teeth
     └── Type
 </pre>
+
+![Fukuhedrons](fukuhedrons.png)
 
 Fukuhedrons Unofficial Created by Xinglu Lin ([@linxinglu](https://x.com/linxinglu))
 
