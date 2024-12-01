@@ -7,8 +7,8 @@ Fukuhedrons Custom - [https://xai.cn/fuku/diy/](https://xai.cn/fuku/diy/)
 
 <pre>
 ├── content - on-chain content
-├── svg - SVG files (0.svg ~ 9999.svg)
-├── png - PNG files (0.png ~ 9999.png)
+├── svg - SVG files (1.svg ~ 10000.svg)
+├── png - PNG files (1.png ~ 10000.png)
 └── traits - traits files
     ├── Arm
     ├── Background
